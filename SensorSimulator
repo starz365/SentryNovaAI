@@ -1,0 +1,15 @@
+[2025-05-02 13:31:34] [INFO] [general] Registered callback for temperature
+[2025-05-02 13:31:34] [INFO] [general] Registered callback for motion
+[2025-05-02 13:31:34] [INFO] [general] Started continuous sensing (interval: 1.0s)
+[2025-05-02 13:31:45] [INFO] [general] Registered callback for temperature
+[2025-05-02 13:31:45] [INFO] [general] Registered callback for motion
+[2025-05-02 13:31:45] [INFO] [general] Started continuous sensing (interval: 1.0s)
+[2025-05-02 13:31:58] [INFO] [general] Registered callback for temperature
+[2025-05-02 13:31:58] [INFO] [general] Registered callback for motion
+[2025-05-02 13:31:58] [INFO] [general] Started continuous sensing (interval: 1.0s)
+[2025-05-02 13:33:08] [INFO] [general] Registered callback for temperature
+[2025-05-02 13:33:08] [INFO] [general] Registered callback for motion
+[2025-05-02 13:33:08] [INFO] [general] Started continuous sensing (interval: 1.0s)
+[2025-05-04 02:40:13] [INFO] [general] Registered callback for temperature
+[2025-05-04 02:40:13] [INFO] [general] Registered callback for motion
+[2025-05-04 02:40:13] [INFO] [general] Started continuous sensing (interval: 1.0s)

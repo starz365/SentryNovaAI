@@ -1,0 +1,91 @@
+[2025-04-21 21:10:37] [INFO] [general] Added rule: Check if it's night time
+[2025-04-21 21:10:37] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-04-21 21:10:37] [INFO] [general] Condition not met: Check if it's night time
+[2025-04-21 21:10:37] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-04-21 21:11:22] [INFO] [general] Added rule: Check if it's night time
+[2025-04-21 21:11:22] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-04-21 21:11:22] [INFO] [general] Condition not met: Check if it's night time
+[2025-04-21 21:11:22] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-04-21 21:33:44] [INFO] [general] Added rule: Check if it's night time
+[2025-04-21 21:33:44] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-04-21 21:33:44] [INFO] [general] Condition not met: Check if it's night time
+[2025-04-21 21:33:44] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-04-24 19:29:33] [INFO] [general] Added rule: Check if it's night time
+[2025-04-24 19:29:33] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-04-24 19:29:33] [INFO] [general] Condition not met: Check if it's night time
+[2025-04-24 19:29:33] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-04-24 19:30:04] [INFO] [general] Added rule: Check if it's night time
+[2025-04-24 19:30:04] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-04-24 19:30:04] [INFO] [general] Condition not met: Check if it's night time
+[2025-04-24 19:30:04] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-04-24 19:34:59] [INFO] [general] Added rule: Check if it's night time
+[2025-04-24 19:34:59] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-04-24 19:34:59] [INFO] [general] Condition not met: Check if it's night time
+[2025-04-24 19:34:59] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-04-24 19:35:24] [INFO] [general] Added rule: Check if it's night time
+[2025-04-24 19:35:24] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-04-24 19:35:24] [INFO] [general] Condition not met: Check if it's night time
+[2025-04-24 19:35:24] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-04-24 19:35:50] [INFO] [general] Added rule: Check if it's night time
+[2025-04-24 19:35:50] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-05-02 13:29:04] [INFO] [general] Added rule: Check if it's night time
+[2025-05-02 13:29:04] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-05-02 13:29:04] [INFO] [general] Condition not met: Check if it's night time
+[2025-05-02 13:29:04] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-05-02 13:31:34] [INFO] [general] Added rule: Temperature monitoring (Priority: HIGH)
+[2025-05-02 13:31:34] [INFO] [general] Added rule: Motion detection (Priority: CRITICAL)
+[2025-05-02 13:31:34] [INFO] [general] Started continuous rule evaluation
+[2025-05-02 13:31:34] [DEBUG] [general] Condition not met: Motion detection
+[2025-05-02 13:31:34] [DEBUG] [general] Condition not met: Temperature monitoring
+[2025-05-02 13:31:45] [INFO] [general] Added rule: Temperature monitoring (Priority: HIGH)
+[2025-05-02 13:31:45] [INFO] [general] Added rule: Motion detection (Priority: CRITICAL)
+[2025-05-02 13:31:45] [INFO] [general] Started continuous rule evaluation
+[2025-05-02 13:31:45] [DEBUG] [general] Condition not met: Motion detection
+[2025-05-02 13:31:45] [DEBUG] [general] Condition not met: Temperature monitoring
+[2025-05-02 13:31:50] [DEBUG] [general] Condition not met: Motion detection
+[2025-05-02 13:31:50] [DEBUG] [general] Condition not met: Temperature monitoring
+[2025-05-02 13:31:55] [INFO] [general] Condition met: Motion detection (Priority: CRITICAL)
+[2025-05-02 13:31:55] [DEBUG] [general] Condition not met: Temperature monitoring
+[2025-05-02 13:31:58] [INFO] [general] Added rule: Temperature monitoring (Priority: HIGH)
+[2025-05-02 13:31:58] [INFO] [general] Added rule: Motion detection (Priority: CRITICAL)
+[2025-05-02 13:31:58] [DEBUG] [general] Condition not met: Motion detection
+[2025-05-02 13:31:58] [INFO] [general] Started continuous rule evaluation
+[2025-05-02 13:31:58] [DEBUG] [general] Condition not met: Temperature monitoring
+[2025-05-02 13:32:03] [DEBUG] [general] Condition not met: Motion detection
+[2025-05-02 13:32:04] [DEBUG] [general] Condition not met: Temperature monitoring
+[2025-05-02 13:33:08] [INFO] [general] Added rule: Temperature monitoring (Priority: HIGH)
+[2025-05-02 13:33:08] [INFO] [general] Added rule: Motion detection (Priority: CRITICAL)
+[2025-05-02 13:33:08] [INFO] [general] Started continuous rule evaluation
+[2025-05-02 13:33:08] [DEBUG] [general] Condition not met: Motion detection
+[2025-05-02 13:33:08] [DEBUG] [general] Condition not met: Temperature monitoring
+[2025-05-02 13:33:13] [DEBUG] [general] Condition not met: Motion detection
+[2025-05-02 13:33:13] [DEBUG] [general] Condition not met: Temperature monitoring
+[2025-05-04 02:40:13] [INFO] [general] Added rule: Temperature monitoring (Priority: HIGH)
+[2025-05-04 02:40:13] [INFO] [general] Added rule: Motion detection (Priority: CRITICAL)
+[2025-05-04 02:40:13] [INFO] [general] Started continuous rule evaluation
+[2025-05-04 02:40:13] [DEBUG] [general] Condition not met: Motion detection
+[2025-05-04 02:40:13] [DEBUG] [general] Condition not met: Temperature monitoring
+[2025-05-04 02:40:18] [DEBUG] [general] Condition not met: Motion detection
+[2025-05-04 02:40:18] [DEBUG] [general] Condition not met: Temperature monitoring
+[2025-05-04 02:40:23] [DEBUG] [general] Condition not met: Motion detection
+[2025-05-04 02:40:23] [DEBUG] [general] Condition not met: Temperature monitoring
+[2025-05-04 12:24:14] [INFO] [general] Added rule: Check if it's night time
+[2025-05-04 12:24:14] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-05-04 12:24:14] [INFO] [general] Condition not met: Check if it's night time
+[2025-05-04 12:24:14] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-05-04 23:27:05] [INFO] [general] Added rule: Check if it's night time
+[2025-05-04 23:27:05] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-05-04 23:27:05] [INFO] [general] Condition met: Check if it's night time
+[2025-05-04 23:27:05] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-05-05 17:19:16] [INFO] [general] Added rule: Check if it's night time
+[2025-05-05 17:19:16] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-05-05 17:19:16] [INFO] [general] Condition not met: Check if it's night time
+[2025-05-05 17:19:16] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-05-05 17:20:12] [INFO] [general] Added rule: Check if it's night time
+[2025-05-05 17:20:12] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-05-05 17:20:12] [INFO] [general] Condition not met: Check if it's night time
+[2025-05-05 17:20:12] [INFO] [general] Condition met: Check for 'urgent' keyword
+[2025-05-05 17:20:56] [INFO] [general] Added rule: Check if it's night time
+[2025-05-05 17:20:56] [INFO] [general] Added rule: Check for 'urgent' keyword
+[2025-05-05 17:20:56] [INFO] [general] Condition not met: Check if it's night time
+[2025-05-05 17:20:56] [INFO] [general] Condition met: Check for 'urgent' keyword
